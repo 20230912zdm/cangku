@@ -1,8 +1,6 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("code1\n");
-	printf("code2\n");
-	printf("code3\n");
+	printf("删库跑路了哈哈哈");
 	return 0;
 }
