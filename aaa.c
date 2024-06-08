@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("test code.c\n);
+	printf("code1\n");
+	printf("code2\n");
+	printf("code3\n");
 	return 0;
 }
