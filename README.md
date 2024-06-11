@@ -86,4 +86,12 @@ shandixnia|pao|18
 
 [Github](https://github.com/dashboard "点击访问")
 
+### 图片链接
 
+![桌面图片](https://i.postimg.cc/LXr71Bcw/1.jpg "点击访问")
+
+## 笔记
+### 关键字查询
+* awesome,去此标签类别中查询项目
+* python tutorial,查询资料，书籍，文档
+* socket sample,查询对应技术
