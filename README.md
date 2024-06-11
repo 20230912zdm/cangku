@@ -81,3 +81,9 @@ shandixnia|pao|18
       ps aux
       ls -l
 ```
+
+### 超链接技术
+
+[Github](https://github.com/dashboard "点击访问")
+
+
